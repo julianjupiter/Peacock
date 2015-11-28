@@ -23,7 +23,7 @@ namespace Peacock\Util;
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  * 
- * @package Codeigniter
+ * @package Peacock
  * @author Julian Jupiter <julianjupiter.io@gmail.com>
  * @copyright (c) 2015, Julian Jupiter
  * @license http://http://www.gnu.org/licenses/gpl-3.0.en.html GNU General Public License v3.0
